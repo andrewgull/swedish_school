@@ -1,4 +1,4 @@
-# Förunderliga fakta om svenska människor
+# ![#f03c15] Förunderliga fakta om svenska människor
 
 ## De äter harsk fisk och de kallar det 'surströmming'
 
